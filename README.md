@@ -29,7 +29,8 @@ This project analyzes a healthcare dataset to identify the key factors associate
 
 ## 📊 Dashboard Preview
 
-> *(Add your dashboard screenshot here after uploading `dashboard.png`.)*
+> <img width="1314" height="792" alt="Stroke_Dashboard_ss" src="https://github.com/user-attachments/assets/1fafff8d-1be0-471e-a2d6-de5eb204ffb5" />
+
 
 ---
 
